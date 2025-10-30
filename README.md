@@ -1,16 +1,21 @@
-## Hi there 👋
+```
+education: "Bachelor's in Software Engineering",
+fields_of_interests:
+  [
+    "Web Development",
+    "Front-end/Back-end"
+    "Leet code: https://leetcode.com/u/amanbolsyn_/"
+  ]
+technical_background: "Front-end Developer",
+projects:
+  [
+    "Piano player":  https://amanbolsyn.github.io/piano-player/main.html,
+    "Task planner": https://amanbolsyn.github.io/task-planner/main.html,
+    "The maze escape": https://amanbolsyn.github.io/The-Maze-Escape/,
+  ],
 
+currently_learning: ["Back-end, Typescript, Cloud computing, Networking, Software architecture"],
+hobbies: ["Books", "Cinema", "Music" ],
+```
 <!--
-**amanbolsyn/amanbolsyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
